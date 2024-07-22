@@ -35,7 +35,6 @@ export function homeAnim() {
   scrollTl.to([".home-img-cont img" ], {
     y: "-110%",
     scale: 1.2,
-    opacity: 0,
     duration: 5,
     stagger: 0.08,
     onStart: function () {

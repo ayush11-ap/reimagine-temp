@@ -14,8 +14,8 @@ import { referFreind } from './refer.js';
 
 
 locomotiveJs();
-// loderAnim(homeAnim);
-homeAnim()
+loderAnim(homeAnim);
+// homeAnim()
 menuAnimation();
 videoSection();
 if (window.innerWidth >= 620) {
